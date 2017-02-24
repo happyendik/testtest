@@ -1,7 +1,5 @@
 <?php 
 
-echo "test test test";
+echo "delete";
 
-echo "test second commit";
-echo "new branch";
 
